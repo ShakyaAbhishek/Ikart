@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445581641561",
+    "firebase_url": "https://ikart-f78ba.firebaseio.com",
+    "project_id": "ikart-f78ba",
+    "storage_bucket": "ikart-f78ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445581641561:android:634a972f4d4e4c6f85ee48",
+        "android_client_info": {
+          "package_name": "com.ikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445581641561-9elfaouvc95t9rqaqrp4o2q0mf6f0v5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2Gs1bsH6_EauQEMCP1b75DqypB8SVcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445581641561-9elfaouvc95t9rqaqrp4o2q0mf6f0v5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
